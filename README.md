@@ -55,6 +55,19 @@ _"Wow, today was just AMAZING. Everything went wrong, my car broke down, and I s
 - **Framework**: Flask (for deployment) 🌍
 - **Memory Management**: Session-based short-term memory 🧠
 
+## 🔑 Setting Up API Key
+To use the chatbot with external APIs (e.g., NLP models, sentiment analysis, or cloud-based services), you need to **configure an API key**.
+
+### **1️⃣ Configure the API Key in `config.py`**
+In the root directory, create a **`config.py`** file and add your API key directly:
+
+```python
+# config.py
+
+API_KEY = "your-secret-api-key-here"
+
+# ⚠️ Important: Do not share this key publicly! Keep it safe and do not commit it to Git.
+
 ## 💖 Contributing
 We welcome contributions! To contribute:
 1. Fork the repository.

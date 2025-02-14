@@ -1,6 +1,6 @@
 # 🤖 Empathy AI Chat
 
-An advanced AI chatbot that understands user emotions and provides empathetic, context-aware responses. This project enhances chatbot interaction by tracking emotional trends, offering actionable advice, and maintaining short-term memory for meaningful conversations.
+An AI chatbot that understands user emotions and provides empathetic, context-aware responses. This project enhances chatbot interaction by tracking emotional trends, offering actionable advice, and maintaining short-term memory for meaningful conversations.
 
 ## 📌 Features
 
@@ -41,8 +41,6 @@ _"Wow, today was just AMAZING. Everything went wrong, my car broke down, and I s
 ![WhatsApp Image 2025-02-14 at 02 41 56_318d9a36](https://github.com/user-attachments/assets/ab2d5fc4-7915-443c-a782-41f58db20a97)
 ![WhatsApp Image 2025-02-14 at 02 45 08_4d39871d](https://github.com/user-attachments/assets/b9c90016-63c7-4fbe-9d05-3e7323e51d84)
 
-
-"I'm really proud of myself for finally standing up to my toxic boss, but I also feel a bit guilty... I hope I didn't overreact."
 ## 💡 How It Works
 1. The chatbot **detects user emotions** based on input.
 2. It **selects the most appropriate response** using NLP models.

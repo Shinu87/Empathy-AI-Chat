@@ -51,7 +51,7 @@ _"Wow, today was just AMAZING. Everything went wrong, my car broke down, and I s
 
 ## 🛠️ Tech Stack
 - **Programming Language**: Python 🐍
-- **NLP Model**: Transformer-based AI 🤖
+- **NLP Model**: Google Gemini🤖
 - **Framework**: Flask (for deployment) 🌍
 - **Memory Management**: Session-based short-term memory 🧠
 
@@ -69,8 +69,8 @@ Ensure that the **`config.py`** file exists in the root directory and contains t
 ```python
 # config.py
 
-API_KEY = "your-secret-api-key-here"
-
+#Google Gemini API Key
+GOOGLE_API_KEY = "your-gemini-api-key-here"
 # ⚠️ Important: Do not share this key publicly! Keep it safe and do not commit it to Git.
 
 ## 💖 Contributing

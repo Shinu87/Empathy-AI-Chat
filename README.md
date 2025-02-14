@@ -80,6 +80,4 @@ We welcome contributions! To contribute:
 3. Commit your changes and push them.
 4. Open a Pull Request.
 
-## 📜 License
-This project is licensed under the MIT License.
 
